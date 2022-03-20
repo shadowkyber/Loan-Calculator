@@ -58,6 +58,3 @@ elif p.type == "annuity":  # calculating annuity
         over = abs(p.principal - (payment * p.periods))
         print(f"Your annuity payment = {payment}!")
         print('Overpayment =', over)
-
-# python creditcalc.py
-# cd C:\Users\pro\Documents\programs\jetbrains_academy\Loan Calculator\Loan Calculator\task\creditcalc
